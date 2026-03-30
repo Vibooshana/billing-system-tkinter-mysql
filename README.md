@@ -34,8 +34,8 @@ A GUI-based billing system developed using Python (Tkinter) with MySQL database 
 ### 🧾 Bill Generation
 ![Bill](bill.png)
 
-### 💾 Save Bill
-![Save Bill](bill save.png)
+
+![Save Bill](bill_save.png)
 
 ### ✏️ Update Product
 ![Update](update.png)
