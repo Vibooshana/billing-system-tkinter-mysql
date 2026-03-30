@@ -23,4 +23,7 @@ A GUI-based billing system developed using Python (Tkinter) with MySQL database 
 5. Run main.py
 
 ## 📸 Output
+## 📸 Output
+
+![Login](login.png)
 
